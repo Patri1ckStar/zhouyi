@@ -91,8 +91,8 @@ def delete_session(session_name):
 # 大标题
 st.title("赛博大师")
 
-# logo
-st.logo("resource/logo.png")
+# # logo
+# st.logo("resource/logo.png")
 
 # 系统提示此
 sys_prompt = """
